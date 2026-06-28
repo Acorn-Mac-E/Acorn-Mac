@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.macupdate.com/products/25779/m/acorn-logo.png?v=1670310887" width="100" alt="Acorn icon"/>
+  <img src="https://images.icon-icons.com/3053/PNG/512/acorn_macos_bigsur_icon_190473.png" width="100" alt="Acorn icon"/>
 </p>
 <h1 align="center">Acorn</h1>
 <p align="center">Native image editing and design — done right on macOS.</p>
